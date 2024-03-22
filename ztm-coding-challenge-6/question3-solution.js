@@ -68,3 +68,5 @@ console.log('---------------------------------');
 console.log(convertColor(convertColor('#D46A6A')));
 console.log(convertColor(convertColor('#801515')));
 console.log(convertColor(convertColor('#D66A6A')));
+
+// NPM package link: https://github.com/IlonaZaika/my-color-converter
