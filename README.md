@@ -19,3 +19,12 @@ The function should find two different numbers in the array that, when added tog
 give the target number. For example: answer([1,2,3], 4)should return [1,3]`
 
 [--> Solution](ztm-coding-challenge-6/question2-solution.js)
+
+Question 3: 
+
+`
+Write a function that converts HEX to RGB. 
+Then Make that function autodect the formats so that if you enter HEX color format it returns RGB and if you enter RGB color format it returns HEX. 
+Bonus: Release this tool as a npm package.`
+
+[--> Solution](ztm-coding-challenge-6/question3-solution.js)
